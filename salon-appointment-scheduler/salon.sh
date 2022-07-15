@@ -1,4 +1,5 @@
 #!/bin/bash
+# create an interactive bash program to track the customers and appointments
 
 PSQL="psql -X --username=freecodecamp --dbname=salon --tuples-only -c"
 
