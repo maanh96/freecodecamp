@@ -3,7 +3,7 @@ This course provides the fundamentals of data analysis with Python.
 
 View full course [here](https://www.freecodecamp.org/learn/relational-database/).
 
-## List of Projects
+## List of Assignments
 ### 1. Mean-Variance-Standard Deviation Calculator
 Create a function named `calculate()` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix...  [Continue](./1.%20Mean-Variance-Standard%20Deviation%20Calculator/)
 
