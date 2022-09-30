@@ -1,5 +1,5 @@
 # Relational Database
-The course includes navigating and manipulating a file system, scripting in Bash, create and use a relational database with PostgreSQL and use Git to keeps track of project's changes.
+The course includes learning about navigating and manipulating a file system, scripting in Bash, creating and using a relational database with PostgreSQL and using Git to keeps track of project's changes.
 View full course [here](https://www.freecodecamp.org/learn/relational-database/).
 
 ## List of Assignments
