@@ -10,6 +10,6 @@ View the [full course](https://www.freecodecamp.org/learn/relational-database/) 
 This course provides the fundamentals of data analysis with Python. 
 View the [full course](https://www.freecodecamp.org/learn/data-analysis-with-python/) or my [solutions](./Data%20Analysis%20with%20Python/).
 
-### Data Visualization
+### Data Visualization with D3
 This course includes building charts, graphs, and maps to present different types of data with the D3.js library.
 View the [full course](https://www.freecodecamp.org/learn/data-visualization/) or my [solutions](./Data%20Visualization/).
