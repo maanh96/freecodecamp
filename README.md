@@ -4,12 +4,15 @@ This is my solution for the courses' assignments at [freecodecamp.org](https://w
 
 ### Relational Database
 The course includes navigating and manipulating a file system, scripting in Bash, creating and using a relational database with PostgreSQL and using Git to keep track of project's changes.
+
 View the [full course](https://www.freecodecamp.org/learn/relational-database/) or my [solutions](./Relational%20Database/).
 
 ### Data Analysis with Python
 This course provides the fundamentals of data analysis with Python. 
+
 View the [full course](https://www.freecodecamp.org/learn/data-analysis-with-python/) or my [solutions](./Data%20Analysis%20with%20Python/).
 
 ### Data Visualization with D3
 This course includes building charts, graphs, and maps to present different types of data with the D3.js library.
+
 View the [full course](https://www.freecodecamp.org/learn/data-visualization/) or my [solutions](./Data%20Visualization/).
